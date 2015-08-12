@@ -8,7 +8,7 @@ Module modCommon
     Public Const DEBUG_ON As Int16 = 1
     Public Const DEBUG_OFF As Int16 = 0
 
-    ' Global variables group
+    ' Global variables group...
     Public p_iDebugMode As Int16 = DEBUG_ON
     Public p_iErrDispMethod As Int16
     Public p_iDeleteDebugLog As Int16
