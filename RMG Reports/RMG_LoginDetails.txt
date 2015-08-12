@@ -1,0 +1,14 @@
+RMG Server Details
+======================
+
+SQL - sa/Sa1234
+
+B1SiteUser - Sa1234
+
+B1 user - p001/9999
+
+Windows Login
+=============
+User : Abeo
+password : Rmg@1234
+

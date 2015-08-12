@@ -1,0 +1,836 @@
+[05/08/2014 15:06:31][SD Recurring Invoice Generation Function()] Starting Function
+[05/08/2014 15:06:31][SD_InvoiceGeneration() - For RA 29] Starting Function
+[05/08/2014 15:06:31][                            29] Fetching the information for RA 
+[05/08/2014 15:06:31][                        CUS001] Invoice - Cardcode 
+[05/08/2014 15:06:31][                      3/5/2014] Invocie - DocDate 
+[05/08/2014 15:06:31][Self Drive Billing for this Booking No : 29] Invoice - Description 
+[05/08/2014 15:06:31][                        400020] Invoice - Account Code
+[05/08/2014 15:06:31][                            SO] Invoice - Taxcode 
+[05/08/2014 15:06:31][                           300] Invoice - Line Total  
+[05/08/2014 15:06:31][                            No] CDW Flag status 
+[05/08/2014 15:06:31][                           Yes] PAI Flag status 
+[05/08/2014 15:06:31][                            29] Fetching PAI information for RA 
+[05/08/2014 15:06:31][ Personal Accidental Insurance] Invoice - ItemDescription 
+[05/08/2014 15:06:31][                            SO] Invocie - TaxCode 
+[05/08/2014 15:06:31][                           100] Invoice - LineTotal 
+[05/08/2014 15:06:31][                        103000] Invoice - Account Code
+[05/08/2014 15:06:31][                            29] Generating the Invoice for RA 
+[05/08/2014 15:06:31][                            29] Completed with  SUCCESS 
+[05/08/2014 15:06:31][                            65] Generated Invoice Number is 
+[05/08/2014 15:06:31][          UDO_Update_SelfDrive] Starting Function
+[05/08/2014 15:06:31][                             5] Month 
+[05/08/2014 15:06:44][                   AE_Sbooking] Attempting UDO Object 
+[05/08/2014 15:06:44][                            29] Set the RA Document Entry for update 
+[05/08/2014 15:06:44][                    03/05/2014] NInvDateNew 
+[05/08/2014 15:06:44][                    03/06/2014] Set the Next service date 
+[05/08/2014 15:06:44][                        64 , 1] Property check for idenftify the Line Num  
+[05/08/2014 15:06:44][                            29] Fetching the line items for RA 
+[05/08/2014 15:06:44][                    03/05/2014] Invoice Date
+[05/08/2014 15:06:44][                    08/05/2014] Invoice raised date 
+[05/08/2014 15:06:44][                           300] Invoice Amount 
+[05/08/2014 15:06:44][                            65] Invoice Doc Num 
+[05/08/2014 15:06:44][                            65] Invoice Docentry 
+[05/08/2014 15:06:44][                   AE_Sbooking] Start updating the UDO 
+[05/08/2014 15:06:44][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/08/2014 15:06:44][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/08/2014 15:06:44][SD_InvoiceGeneration() - For RA 29] Completed With SUCCESS
+[05/08/2014 15:06:46][SD_InvoiceGeneration() - For RA 29] Completed with SUCCESS
+[05/08/2014 15:11:46][SD Recurring Invoice Generation Function()] Starting Function
+[05/08/2014 15:11:46][SD_InvoiceGeneration() - For RA 30] Starting Function
+[05/08/2014 15:11:46][                            30] Fetching the information for RA 
+[05/08/2014 15:11:46][                        CUS001] Invoice - Cardcode 
+[05/08/2014 15:11:46][                      3/4/2014] Invocie - DocDate 
+[05/08/2014 15:11:46][Self Drive Billing for this Booking No : 30] Invoice - Description 
+[05/08/2014 15:11:46][                        400020] Invoice - Account Code
+[05/08/2014 15:11:46][                            SO] Invoice - Taxcode 
+[05/08/2014 15:11:46][                           300] Invoice - Line Total  
+[05/08/2014 15:11:46][                            No] CDW Flag status 
+[05/08/2014 15:11:46][                           Yes] PAI Flag status 
+[05/08/2014 15:11:46][                            30] Fetching PAI information for RA 
+[05/08/2014 15:11:46][ Personal Accidental Insurance] Invoice - ItemDescription 
+[05/08/2014 15:11:46][                            SO] Invocie - TaxCode 
+[05/08/2014 15:11:46][                           100] Invoice - LineTotal 
+[05/08/2014 15:11:46][                        103000] Invoice - Account Code
+[05/08/2014 15:11:46][                            30] Generating the Invoice for RA 
+[05/08/2014 15:11:46][                            30] Completed with  SUCCESS 
+[05/08/2014 15:11:47][                            66] Generated Invoice Number is 
+[05/08/2014 15:11:47][          UDO_Update_SelfDrive] Starting Function
+[05/08/2014 15:11:47][                             4] Month 
+[05/08/2014 15:11:47][                   AE_Sbooking] Attempting UDO Object 
+[05/08/2014 15:11:47][                            30] Set the RA Document Entry for update 
+[05/08/2014 15:11:47][                    03/04/2014] NInvDateNew 
+[05/08/2014 15:11:47][                    03/05/2014] NInvDateNew.AddMonths(1) 
+[05/08/2014 15:11:47][                    03/05/2014] Set the Next service date 
+[05/08/2014 15:11:47][                           , 0] Property check for idenftify the Line Num  
+[05/08/2014 15:11:47][                            30] Fetching the line items for RA 
+[05/08/2014 15:11:47][                    03/04/2014] Invoice Date
+[05/08/2014 15:11:47][                    08/05/2014] Invoice raised date 
+[05/08/2014 15:11:47][                           300] Invoice Amount 
+[05/08/2014 15:11:47][                            66] Invoice Doc Num 
+[05/08/2014 15:11:47][                            66] Invoice Docentry 
+[05/08/2014 15:11:47][                   AE_Sbooking] Start updating the UDO 
+[05/08/2014 15:11:47][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/08/2014 15:11:47][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/08/2014 15:11:47][SD_InvoiceGeneration() - For RA 30] Completed With SUCCESS
+[05/08/2014 15:11:48][SD_InvoiceGeneration() - For RA 30] Completed with SUCCESS
+[05 08 2014 15:14:08][SD Recurring Invoice Generation Function()] Starting Function
+[05 08 2014 15:14:08][SD_InvoiceGeneration() - For RA 30] Starting Function
+[05 08 2014 15:14:08][                            30] Fetching the information for RA 
+[05 08 2014 15:14:08][                        CUS001] Invoice - Cardcode 
+[05 08 2014 15:14:08][                      3/5/2014] Invocie - DocDate 
+[05 08 2014 15:14:08][Self Drive Billing for this Booking No : 30] Invoice - Description 
+[05 08 2014 15:14:08][                        400020] Invoice - Account Code
+[05 08 2014 15:14:08][                            SO] Invoice - Taxcode 
+[05 08 2014 15:14:08][                           300] Invoice - Line Total  
+[05 08 2014 15:14:08][                            No] CDW Flag status 
+[05 08 2014 15:14:08][                           Yes] PAI Flag status 
+[05 08 2014 15:14:08][                            30] Fetching PAI information for RA 
+[05 08 2014 15:14:08][ Personal Accidental Insurance] Invoice - ItemDescription 
+[05 08 2014 15:14:08][                            SO] Invocie - TaxCode 
+[05 08 2014 15:14:08][                           100] Invoice - LineTotal 
+[05 08 2014 15:14:08][                        103000] Invoice - Account Code
+[05 08 2014 15:14:08][                            30] Generating the Invoice for RA 
+[05 08 2014 15:14:08][                            30] Completed with  SUCCESS 
+[05 08 2014 15:14:08][                            67] Generated Invoice Number is 
+[05 08 2014 15:14:08][          UDO_Update_SelfDrive] Starting Function
+[05 08 2014 15:14:08][                             5] Month 
+[05 08 2014 15:14:08][                   AE_Sbooking] Attempting UDO Object 
+[05 08 2014 15:14:08][                            30] Set the RA Document Entry for update 
+[05 08 2014 15:14:08][                    03 05 2014] NInvDateNew 
+[05 08 2014 15:14:08][                    03 06 2014] NInvDateNew.AddMonths(1) 
+[05 08 2014 15:14:08][                    03 06 2014] Set the Next service date 
+[05 08 2014 15:14:08][                        66 , 1] Property check for idenftify the Line Num  
+[05 08 2014 15:14:08][                            30] Fetching the line items for RA 
+[05 08 2014 15:14:08][                    03 05 2014] Invoice Date
+[05 08 2014 15:14:08][                    08 05 2014] Invoice raised date 
+[05 08 2014 15:14:08][                           300] Invoice Amount 
+[05 08 2014 15:14:08][                            67] Invoice Doc Num 
+[05 08 2014 15:14:08][                            67] Invoice Docentry 
+[05 08 2014 15:14:08][                   AE_Sbooking] Start updating the UDO 
+[05 08 2014 15:14:08][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05 08 2014 15:14:08][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05 08 2014 15:14:08][SD_InvoiceGeneration() - For RA 30] Completed With SUCCESS
+[05 08 2014 15:14:09][SD_InvoiceGeneration() - For RA 30] Completed with SUCCESS
+[05/08/2014 15:17:27][SD Recurring Invoice Generation Function()] Starting Function
+[05/08/2014 15:17:27][SD_InvoiceGeneration() - For RA 3] Starting Function
+[05/08/2014 15:17:27][                             3] Fetching the information for RA 
+[05/08/2014 15:17:27][                        CUS001] Invoice - Cardcode 
+[05/08/2014 15:17:27][                     27/6/2014] Invocie - DocDate 
+[05/08/2014 15:17:27][Self Drive Billing for this Booking No : 3] Invoice - Description 
+[05/08/2014 15:17:27][                        400020] Invoice - Account Code
+[05/08/2014 15:17:27][                            SO] Invoice - Taxcode 
+[05/08/2014 15:17:27][                           100] Invoice - Line Total  
+[05/08/2014 15:17:27][                           Yes] CDW Flag status 
+[05/08/2014 15:17:27][                             3] Fetching CDW information for RA 
+[05/08/2014 15:17:27][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[05/08/2014 15:17:27][                            SO] Invocie - TaxCode 
+[05/08/2014 15:17:27][                            10] Invoice - LineTotal 
+[05/08/2014 15:17:27][                        101000] Invoice - Account Code
+[05/08/2014 15:17:27][                           Yes] PAI Flag status 
+[05/08/2014 15:17:27][                             3] Fetching PAI information for RA 
+[05/08/2014 15:17:27][ Personal Accidental Insurance] Invoice - ItemDescription 
+[05/08/2014 15:17:27][                            SO] Invocie - TaxCode 
+[05/08/2014 15:17:27][                            10] Invoice - LineTotal 
+[05/08/2014 15:17:27][                        103000] Invoice - Account Code
+[05/08/2014 15:17:27][                             3] Generating the Invoice for RA 
+[05/08/2014 15:17:27][                             3] Completed with  SUCCESS 
+[05/08/2014 15:17:27][                            68] Generated Invoice Number is 
+[05/08/2014 15:17:27][          UDO_Update_SelfDrive] Starting Function
+[05/08/2014 15:17:27][                             6] Month 
+[05/08/2014 15:17:27][                   AE_Sbooking] Attempting UDO Object 
+[05/08/2014 15:17:27][                             3] Set the RA Document Entry for update 
+[05/08/2014 15:17:27][                    27/06/2014] NInvDateNew 
+[05/08/2014 15:17:27][                    27/07/2014] NInvDateNew.AddMonths(1) 
+[05/08/2014 15:17:27][                    27/07/2014] Set the Next service date 
+[05/08/2014 15:17:27][                        19 , 1] Property check for idenftify the Line Num  
+[05/08/2014 15:17:27][                             3] Fetching the line items for RA 
+[05/08/2014 15:17:27][                    27/06/2014] Invoice Date
+[05/08/2014 15:17:27][                    08/05/2014] Invoice raised date 
+[05/08/2014 15:17:27][                           100] Invoice Amount 
+[05/08/2014 15:17:27][                            68] Invoice Doc Num 
+[05/08/2014 15:17:27][                            68] Invoice Docentry 
+[05/08/2014 15:17:27][                   AE_Sbooking] Start updating the UDO 
+[05/08/2014 15:17:27][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/08/2014 15:17:27][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/08/2014 15:17:27][SD_InvoiceGeneration() - For RA 3] Completed With SUCCESS
+[05/08/2014 15:17:28][SD_InvoiceGeneration() - For RA 3] Completed with SUCCESS
+[05/08/2014 15:20:43][SD Recurring Invoice Generation Function()] Starting Function
+[05/08/2014 15:20:43][SD_InvoiceGeneration() - For RA 30] Starting Function
+[05/08/2014 15:20:43][                            30] Fetching the information for RA 
+[05/08/2014 15:20:43][                        CUS001] Invoice - Cardcode 
+[05/08/2014 15:20:43][                      3/6/2014] Invocie - DocDate 
+[05/08/2014 15:20:43][Self Drive Billing for this Booking No : 30] Invoice - Description 
+[05/08/2014 15:20:43][                        400020] Invoice - Account Code
+[05/08/2014 15:20:43][                            SO] Invoice - Taxcode 
+[05/08/2014 15:20:43][                           300] Invoice - Line Total  
+[05/08/2014 15:20:43][                            No] CDW Flag status 
+[05/08/2014 15:20:43][                           Yes] PAI Flag status 
+[05/08/2014 15:20:43][                            30] Fetching PAI information for RA 
+[05/08/2014 15:20:43][ Personal Accidental Insurance] Invoice - ItemDescription 
+[05/08/2014 15:20:43][                            SO] Invocie - TaxCode 
+[05/08/2014 15:20:43][                           100] Invoice - LineTotal 
+[05/08/2014 15:20:43][                        103000] Invoice - Account Code
+[05/08/2014 15:20:43][                            30] Generating the Invoice for RA 
+[05/08/2014 15:20:44][                            30] Completed with  SUCCESS 
+[05/08/2014 15:20:44][                            69] Generated Invoice Number is 
+[05/08/2014 15:20:44][          UDO_Update_SelfDrive] Starting Function
+[05/08/2014 15:20:44][                             6] Month 
+[05/08/2014 15:20:44][                   AE_Sbooking] Attempting UDO Object 
+[05/08/2014 15:20:44][                            30] Set the RA Document Entry for update 
+[05/08/2014 15:20:44][                    03/06/2014] NInvDateNew 
+[05/08/2014 15:20:44][                    03/07/2014] Set the Next service date 
+[05/08/2014 15:20:44][                        66 , 1] Property check for idenftify the Line Num  
+[05/08/2014 15:20:44][                            30] Fetching the line items for RA 
+[05/08/2014 15:20:44][                    03/06/2014] Invoice Date
+[05/08/2014 15:20:44][                    08/05/2014] Invoice raised date 
+[05/08/2014 15:20:44][                           300] Invoice Amount 
+[05/08/2014 15:20:44][                            69] Invoice Doc Num 
+[05/08/2014 15:20:44][                            69] Invoice Docentry 
+[05/08/2014 15:20:44][                   AE_Sbooking] Start updating the UDO 
+[05/08/2014 15:20:44][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/08/2014 15:20:44][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/08/2014 15:20:44][SD_InvoiceGeneration() - For RA 30] Completed With SUCCESS
+[05/08/2014 15:20:45][SD_InvoiceGeneration() - For RA 30] Completed with SUCCESS
+[05/08/2014 15:50:47][SD Recurring Invoice Generation Function()] Starting Function
+[05/08/2014 15:50:47][SD_InvoiceGeneration() - For RA 31] Starting Function
+[05/08/2014 15:50:48][                            31] Fetching the information for RA 
+[05/08/2014 15:50:48][                        CUS001] Invoice - Cardcode 
+[05/08/2014 15:50:48][                     24/4/2014] Invocie - DocDate 
+[05/08/2014 15:50:48][Self Drive Billing for this Booking No : 31] Invoice - Description 
+[05/08/2014 15:50:48][                        400020] Invoice - Account Code
+[05/08/2014 15:50:48][                            SO] Invoice - Taxcode 
+[05/08/2014 15:50:48][                           500] Invoice - Line Total  
+[05/08/2014 15:50:48][                            No] CDW Flag status 
+[05/08/2014 15:50:48][                           Yes] PAI Flag status 
+[05/08/2014 15:50:48][                            31] Fetching PAI information for RA 
+[05/08/2014 15:50:48][ Personal Accidental Insurance] Invoice - ItemDescription 
+[05/08/2014 15:50:48][                            SO] Invocie - TaxCode 
+[05/08/2014 15:50:48][                           100] Invoice - LineTotal 
+[05/08/2014 15:50:48][                        103000] Invoice - Account Code
+[05/08/2014 15:50:48][                            31] Generating the Invoice for RA 
+[05/08/2014 15:50:48][                            31] Completed with  SUCCESS 
+[05/08/2014 15:50:48][                            70] Generated Invoice Number is 
+[05/08/2014 15:50:48][          UDO_Update_SelfDrive] Starting Function
+[05/08/2014 15:50:48][                             4] Month 
+[05/08/2014 15:50:48][                   AE_Sbooking] Attempting UDO Object 
+[05/08/2014 15:50:48][                            31] Set the RA Document Entry for update 
+[05/08/2014 15:50:48][                    24/04/2014] NInvDateNew 
+[05/08/2014 15:50:48][                    24/05/2014] NInvDateNew.AddMonths(1) 
+[05/08/2014 15:50:48][                    24/05/2014] Set the Next service date 
+[05/08/2014 15:50:48][                           , 1] Property check for idenftify the Line Num  
+[05/08/2014 15:50:48][                            31] Fetching the line items for RA 
+[05/08/2014 15:50:48][                    24/04/2014] Invoice Date
+[05/08/2014 15:50:48][                    08/05/2014] Invoice raised date 
+[05/08/2014 15:50:48][                           500] Invoice Amount 
+[05/08/2014 15:50:48][                            70] Invoice Doc Num 
+[05/08/2014 15:50:48][                            70] Invoice Docentry 
+[05/08/2014 15:50:48][                   AE_Sbooking] Start updating the UDO 
+[05/08/2014 15:50:48][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/08/2014 15:50:48][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/08/2014 15:50:48][SD_InvoiceGeneration() - For RA 31] Completed With SUCCESS
+[05/08/2014 15:50:49][SD_InvoiceGeneration() - For RA 31] Completed with SUCCESS
+[05/08/2014 15:58:02][SD Recurring Invoice Generation Function()] Starting Function
+[05/08/2014 15:58:02][SD_InvoiceGeneration() - For RA 31] Starting Function
+[05/08/2014 15:58:02][                            31] Fetching the information for RA 
+[05/08/2014 15:58:02][                        CUS001] Invoice - Cardcode 
+[05/08/2014 15:58:02][                     24/5/2014] Invocie - DocDate 
+[05/08/2014 15:58:02][Self Drive Billing for this Booking No : 31] Invoice - Description 
+[05/08/2014 15:58:02][                        400020] Invoice - Account Code
+[05/08/2014 15:58:02][                            SO] Invoice - Taxcode 
+[05/08/2014 15:58:02][                           500] Invoice - Line Total  
+[05/08/2014 15:58:02][                            No] CDW Flag status 
+[05/08/2014 15:58:02][                           Yes] PAI Flag status 
+[05/08/2014 15:58:02][                            31] Fetching PAI information for RA 
+[05/08/2014 15:58:02][ Personal Accidental Insurance] Invoice - ItemDescription 
+[05/08/2014 15:58:02][                            SO] Invocie - TaxCode 
+[05/08/2014 15:58:02][                           100] Invoice - LineTotal 
+[05/08/2014 15:58:02][                        103000] Invoice - Account Code
+[05/08/2014 15:58:02][                            31] Generating the Invoice for RA 
+[05/08/2014 15:58:02][                            31] Completed with  SUCCESS 
+[05/08/2014 15:58:02][                            71] Generated Invoice Number is 
+[05/08/2014 15:58:02][          UDO_Update_SelfDrive] Starting Function
+[05/08/2014 15:58:02][                   AE_Sbooking] Attempting UDO Object 
+[05/08/2014 15:58:02][                            31] Set the RA Document Entry for update 
+[05/08/2014 15:58:02][                    24/05/2014] NInvDateNew 
+[05/08/2014 15:58:02][                    24/06/2014] NInvDateNew.AddMonths(1) 
+[05/08/2014 15:58:02][                    24/06/2014] Set the Next service date 
+[05/08/2014 15:58:02][                        70 , 1] Property check for idenftify the Line Num  
+[05/08/2014 15:58:02][                            31] Fetching the line items for RA 
+[05/08/2014 15:58:02][                    24/05/2014] Invoice Date
+[05/08/2014 15:58:02][                    08/05/2014] Invoice raised date 
+[05/08/2014 15:58:02][                           500] Invoice Amount 
+[05/08/2014 15:58:02][                            71] Invoice Doc Num 
+[05/08/2014 15:58:02][                            71] Invoice Docentry 
+[05/08/2014 15:58:02][                   AE_Sbooking] Start updating the UDO 
+[05/08/2014 15:58:02][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/08/2014 15:58:02][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/08/2014 15:58:03][SD_InvoiceGeneration() - For RA 31] Completed With SUCCESS
+[05/08/2014 15:58:03][SD_InvoiceGeneration() - For RA 31] Completed with SUCCESS
+[05/09/2014 09:33:17][SD Recurring Invoice Generation Function()] Starting Function
+[05/09/2014 09:33:18][SD_InvoiceGeneration() - For RA 50] Starting Function
+[05/09/2014 09:33:18][                            50] Fetching the information for RA 
+[05/09/2014 09:33:18][                       C003920] Invoice - Cardcode 
+[05/09/2014 09:33:18][                      3/4/2014] Invocie - DocDate 
+[05/09/2014 09:33:18][Self Drive Billing for this Booking No : 50] Invoice - Description 
+[05/09/2014 09:33:18][                        400160] Invoice - Account Code
+[05/09/2014 09:33:18][                            SO] Invoice - Taxcode 
+[05/09/2014 09:33:18][                          1600] Invoice - Line Total  
+[05/09/2014 09:33:18][                           Yes] CDW Flag status 
+[05/09/2014 09:33:18][                            50] Fetching CDW information for RA 
+[05/09/2014 09:33:18][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[05/09/2014 09:33:18][                            SO] Invocie - TaxCode 
+[05/09/2014 09:33:18][                           100] Invoice - LineTotal 
+[05/09/2014 09:33:18][                        400120] Invoice - Account Code
+[05/09/2014 09:33:18][                           Yes] PAI Flag status 
+[05/09/2014 09:33:18][                            50] Fetching PAI information for RA 
+[05/09/2014 09:33:18][ Personal Accidental Insurance] Invoice - ItemDescription 
+[05/09/2014 09:33:18][                            SO] Invocie - TaxCode 
+[05/09/2014 09:33:18][                            50] Invoice - LineTotal 
+[05/09/2014 09:33:18][                        400210] Invoice - Account Code
+[05/09/2014 09:33:18][                            50] Generating the Invoice for RA 
+[05/09/2014 09:33:18][                            50] Completed with  SUCCESS 
+[05/09/2014 09:33:19][                           122] Generated Invoice Number is 
+[05/09/2014 09:33:19][          UDO_Update_SelfDrive] Starting Function
+[05/09/2014 09:33:19][                   AE_Sbooking] Attempting UDO Object 
+[05/09/2014 09:33:19][                            50] Set the RA Document Entry for update 
+[05/09/2014 09:33:19][                    03/04/2014] NInvDateNew 
+[05/09/2014 09:33:19][                    03/05/2014] NInvDateNew.AddMonths(1) 
+[05/09/2014 09:33:19][                    03/05/2014] Set the Next service date 
+[05/09/2014 09:33:19][                           , 0] Property check for idenftify the Line Num  
+[05/09/2014 09:33:19][                            50] Fetching the line items for RA 
+[05/09/2014 09:33:19][                    03/01/2014] Invoice Date
+[05/09/2014 09:33:19][                    09/05/2014] Invoice raised date 
+[05/09/2014 09:33:19][                          1600] Invoice Amount 
+[05/09/2014 09:33:19][                           122] Invoice Doc Num 
+[05/09/2014 09:33:19][                           122] Invoice Docentry 
+[05/09/2014 09:33:19][                   AE_Sbooking] Start updating the UDO 
+[05/09/2014 09:33:19][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/09/2014 09:33:19][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/09/2014 09:33:19][SD_InvoiceGeneration() - For RA 50] Completed With SUCCESS
+[05/09/2014 09:33:19][SD_InvoiceGeneration() - For RA 50] Completed with SUCCESS
+[05/09/2014 09:38:55][SD Recurring Invoice Generation Function()] Starting Function
+[05/09/2014 09:38:55][SD_InvoiceGeneration() - For RA 62] Starting Function
+[05/09/2014 09:38:55][                            62] Fetching the information for RA 
+[05/09/2014 09:38:55][                       C004145] Invoice - Cardcode 
+[05/09/2014 09:38:55][                      9/4/2014] Invocie - DocDate 
+[05/09/2014 09:38:55][Self Drive Billing for this Booking No : 62] Invoice - Description 
+[05/09/2014 09:38:55][                        400160] Invoice - Account Code
+[05/09/2014 09:38:55][                            SO] Invoice - Taxcode 
+[05/09/2014 09:38:55][                          1200] Invoice - Line Total  
+[05/09/2014 09:38:55][                           Yes] CDW Flag status 
+[05/09/2014 09:38:55][                            62] Fetching CDW information for RA 
+[05/09/2014 09:38:55][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[05/09/2014 09:38:55][                            SO] Invocie - TaxCode 
+[05/09/2014 09:38:55][                           100] Invoice - LineTotal 
+[05/09/2014 09:38:55][                        400120] Invoice - Account Code
+[05/09/2014 09:38:55][                            No] PAI Flag status 
+[05/09/2014 09:38:55][                            62] Generating the Invoice for RA 
+[05/09/2014 09:38:55][                            62] Completed with  SUCCESS 
+[05/09/2014 09:38:55][                           123] Generated Invoice Number is 
+[05/09/2014 09:38:55][          UDO_Update_SelfDrive] Starting Function
+[05/09/2014 09:38:55][                   AE_Sbooking] Attempting UDO Object 
+[05/09/2014 09:38:55][                            62] Set the RA Document Entry for update 
+[05/09/2014 09:38:55][                    09/04/2014] NInvDateNew 
+[05/09/2014 09:38:55][                    09/05/2014] NInvDateNew.AddMonths(1) 
+[05/09/2014 09:38:55][                    09/05/2014] Set the Next service date 
+[05/09/2014 09:38:55][                           , 0] Property check for idenftify the Line Num  
+[05/09/2014 09:38:55][                            62] Fetching the line items for RA 
+[05/09/2014 09:38:55][                    09/06/2011] Invoice Date
+[05/09/2014 09:38:55][                    09/05/2014] Invoice raised date 
+[05/09/2014 09:38:55][                          1200] Invoice Amount 
+[05/09/2014 09:38:55][                           123] Invoice Doc Num 
+[05/09/2014 09:38:55][                           123] Invoice Docentry 
+[05/09/2014 09:38:55][                   AE_Sbooking] Start updating the UDO 
+[05/09/2014 09:38:56][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/09/2014 09:38:56][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/09/2014 09:38:56][SD_InvoiceGeneration() - For RA 62] Completed With SUCCESS
+[05/09/2014 09:38:56][SD_InvoiceGeneration() - For RA 63] Starting Function
+[05/09/2014 09:38:56][                            63] Fetching the information for RA 
+[05/09/2014 09:38:56][                       C004146] Invoice - Cardcode 
+[05/09/2014 09:38:56][                     10/4/2014] Invocie - DocDate 
+[05/09/2014 09:38:56][Self Drive Billing for this Booking No : 63] Invoice - Description 
+[05/09/2014 09:38:56][                        400160] Invoice - Account Code
+[05/09/2014 09:38:56][                            SO] Invoice - Taxcode 
+[05/09/2014 09:38:56][                          1200] Invoice - Line Total  
+[05/09/2014 09:38:56][                            No] CDW Flag status 
+[05/09/2014 09:38:56][                            No] PAI Flag status 
+[05/09/2014 09:38:56][                            63] Generating the Invoice for RA 
+[05/09/2014 09:38:56][                            63] Completed with  SUCCESS 
+[05/09/2014 09:38:56][                           124] Generated Invoice Number is 
+[05/09/2014 09:38:56][          UDO_Update_SelfDrive] Starting Function
+[05/09/2014 09:38:56][                   AE_Sbooking] Attempting UDO Object 
+[05/09/2014 09:38:56][                            63] Set the RA Document Entry for update 
+[05/09/2014 09:38:56][                    10/04/2014] NInvDateNew 
+[05/09/2014 09:38:56][                    10/05/2014] Set the Next service date 
+[05/09/2014 09:38:56][                           , 0] Property check for idenftify the Line Num  
+[05/09/2014 09:38:56][                            63] Fetching the line items for RA 
+[05/09/2014 09:38:56][                    10/06/2011] Invoice Date
+[05/09/2014 09:38:56][                    09/05/2014] Invoice raised date 
+[05/09/2014 09:38:56][                          1200] Invoice Amount 
+[05/09/2014 09:38:56][                           124] Invoice Doc Num 
+[05/09/2014 09:38:56][                           124] Invoice Docentry 
+[05/09/2014 09:38:56][                   AE_Sbooking] Start updating the UDO 
+[05/09/2014 09:38:56][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/09/2014 09:38:56][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/09/2014 09:38:56][SD_InvoiceGeneration() - For RA 63] Completed With SUCCESS
+[05/09/2014 09:38:56][SD_InvoiceGeneration() - For RA 64] Starting Function
+[05/09/2014 09:38:56][                            64] Fetching the information for RA 
+[05/09/2014 09:38:56][                       C004147] Invoice - Cardcode 
+[05/09/2014 09:38:56][                      4/4/2014] Invocie - DocDate 
+[05/09/2014 09:38:56][Self Drive Billing for this Booking No : 64] Invoice - Description 
+[05/09/2014 09:38:56][                        400160] Invoice - Account Code
+[05/09/2014 09:38:56][                            SO] Invoice - Taxcode 
+[05/09/2014 09:38:56][                          1400] Invoice - Line Total  
+[05/09/2014 09:38:56][                           Yes] CDW Flag status 
+[05/09/2014 09:38:56][                            64] Fetching CDW information for RA 
+[05/09/2014 09:38:56][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[05/09/2014 09:38:56][                            SO] Invocie - TaxCode 
+[05/09/2014 09:38:56][                           100] Invoice - LineTotal 
+[05/09/2014 09:38:56][                        400120] Invoice - Account Code
+[05/09/2014 09:38:56][                           Yes] PAI Flag status 
+[05/09/2014 09:38:56][                            64] Fetching PAI information for RA 
+[05/09/2014 09:38:56][ Personal Accidental Insurance] Invoice - ItemDescription 
+[05/09/2014 09:38:56][                            SO] Invocie - TaxCode 
+[05/09/2014 09:38:56][                            40] Invoice - LineTotal 
+[05/09/2014 09:38:56][                        400210] Invoice - Account Code
+[05/09/2014 09:38:56][                            64] Generating the Invoice for RA 
+[05/09/2014 09:38:56][                            64] Completed with  SUCCESS 
+[05/09/2014 09:38:56][                           125] Generated Invoice Number is 
+[05/09/2014 09:38:56][          UDO_Update_SelfDrive] Starting Function
+[05/09/2014 09:38:56][                   AE_Sbooking] Attempting UDO Object 
+[05/09/2014 09:38:56][                            64] Set the RA Document Entry for update 
+[05/09/2014 09:38:56][                    04/04/2014] NInvDateNew 
+[05/09/2014 09:38:56][                    04/05/2014] NInvDateNew.AddMonths(1) 
+[05/09/2014 09:38:56][                    04/05/2014] Set the Next service date 
+[05/09/2014 09:38:56][                           , 0] Property check for idenftify the Line Num  
+[05/09/2014 09:38:56][                            64] Fetching the line items for RA 
+[05/09/2014 09:38:56][                    04/04/2007] Invoice Date
+[05/09/2014 09:38:56][                    09/05/2014] Invoice raised date 
+[05/09/2014 09:38:56][                          1400] Invoice Amount 
+[05/09/2014 09:38:56][                           125] Invoice Doc Num 
+[05/09/2014 09:38:56][                           125] Invoice Docentry 
+[05/09/2014 09:38:56][                   AE_Sbooking] Start updating the UDO 
+[05/09/2014 09:38:56][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/09/2014 09:38:56][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/09/2014 09:38:56][SD_InvoiceGeneration() - For RA 64] Completed With SUCCESS
+[05/09/2014 09:38:56][SD_InvoiceGeneration() - For RA 64] Completed with SUCCESS
+[05/09/2014 09:44:56][SD Recurring Invoice Generation Function()] Starting Function
+[05/09/2014 09:44:56][SD_InvoiceGeneration() - For RA 32] Starting Function
+[05/09/2014 09:44:56][                            32] Fetching the information for RA 
+[05/09/2014 09:44:56][                       C003569] Invoice - Cardcode 
+[05/09/2014 09:44:56][                      4/4/2014] Invocie - DocDate 
+[05/09/2014 09:44:56][Self Drive Billing for this Booking No : 32] Invoice - Description 
+[05/09/2014 09:44:56][                        400160] Invoice - Account Code
+[05/09/2014 09:44:56][                            SO] Invoice - Taxcode 
+[05/09/2014 09:44:56][                          2100] Invoice - Line Total  
+[05/09/2014 09:44:56][                           Yes] CDW Flag status 
+[05/09/2014 09:44:56][                            32] Fetching CDW information for RA 
+[05/09/2014 09:44:56][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[05/09/2014 09:44:56][                            SO] Invocie - TaxCode 
+[05/09/2014 09:44:56][                            10] Invoice - LineTotal 
+[05/09/2014 09:44:56][                        400120] Invoice - Account Code
+[05/09/2014 09:44:56][                           Yes] PAI Flag status 
+[05/09/2014 09:44:56][                            32] Fetching PAI information for RA 
+[05/09/2014 09:44:56][ Personal Accidental Insurance] Invoice - ItemDescription 
+[05/09/2014 09:44:56][                            SO] Invocie - TaxCode 
+[05/09/2014 09:44:56][                            40] Invoice - LineTotal 
+[05/09/2014 09:44:56][                        400210] Invoice - Account Code
+[05/09/2014 09:44:57][                            32] Generating the Invoice for RA 
+[05/09/2014 09:44:57][                            32] Completed with  SUCCESS 
+[05/09/2014 09:44:57][                           126] Generated Invoice Number is 
+[05/09/2014 09:44:57][          UDO_Update_SelfDrive] Starting Function
+[05/09/2014 09:44:57][                   AE_Sbooking] Attempting UDO Object 
+[05/09/2014 09:44:57][                            32] Set the RA Document Entry for update 
+[05/09/2014 09:44:57][                    04/04/2014] NInvDateNew 
+[05/09/2014 09:44:57][                    04/05/2014] NInvDateNew.AddMonths(1) 
+[05/09/2014 09:44:57][                    04/05/2014] Set the Next service date 
+[05/09/2014 09:44:57][                       117 , 1] Property check for idenftify the Line Num  
+[05/09/2014 09:44:57][                            32] Fetching the line items for RA 
+[05/09/2014 09:44:57][                    04/06/2014] Invoice Date
+[05/09/2014 09:44:57][                    09/05/2014] Invoice raised date 
+[05/09/2014 09:44:57][                          2100] Invoice Amount 
+[05/09/2014 09:44:57][                           126] Invoice Doc Num 
+[05/09/2014 09:44:57][                           126] Invoice Docentry 
+[05/09/2014 09:44:57][                   AE_Sbooking] Start updating the UDO 
+[05/09/2014 09:44:57][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/09/2014 09:44:57][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/09/2014 09:44:57][SD_InvoiceGeneration() - For RA 32] Completed With SUCCESS
+[05/09/2014 09:44:57][SD_InvoiceGeneration() - For RA 33] Starting Function
+[05/09/2014 09:44:57][                            33] Fetching the information for RA 
+[05/09/2014 09:44:57][                       C004137] Invoice - Cardcode 
+[05/09/2014 09:44:57][                      4/4/2014] Invocie - DocDate 
+[05/09/2014 09:44:57][Self Drive Billing for this Booking No : 33] Invoice - Description 
+[05/09/2014 09:44:57][                        400160] Invoice - Account Code
+[05/09/2014 09:44:57][                            SO] Invoice - Taxcode 
+[05/09/2014 09:44:57][                          1250] Invoice - Line Total  
+[05/09/2014 09:44:57][                           Yes] CDW Flag status 
+[05/09/2014 09:44:57][                            33] Fetching CDW information for RA 
+[05/09/2014 09:44:57][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[05/09/2014 09:44:57][                            SO] Invocie - TaxCode 
+[05/09/2014 09:44:57][                            10] Invoice - LineTotal 
+[05/09/2014 09:44:57][                        400120] Invoice - Account Code
+[05/09/2014 09:44:57][                            No] PAI Flag status 
+[05/09/2014 09:44:57][                            33] Generating the Invoice for RA 
+[05/09/2014 09:44:57][                            33] Completed with  SUCCESS 
+[05/09/2014 09:44:57][                           127] Generated Invoice Number is 
+[05/09/2014 09:44:57][          UDO_Update_SelfDrive] Starting Function
+[05/09/2014 09:44:57][                   AE_Sbooking] Attempting UDO Object 
+[05/09/2014 09:44:57][                            33] Set the RA Document Entry for update 
+[05/09/2014 09:44:57][                    04/04/2014] NInvDateNew 
+[05/09/2014 09:44:57][                    04/05/2014] NInvDateNew.AddMonths(1) 
+[05/09/2014 09:44:57][                    04/05/2014] Set the Next service date 
+[05/09/2014 09:44:57][                       118 , 1] Property check for idenftify the Line Num  
+[05/09/2014 09:44:57][                            33] Fetching the line items for RA 
+[05/09/2014 09:44:57][                    04/08/2014] Invoice Date
+[05/09/2014 09:44:57][                    09/05/2014] Invoice raised date 
+[05/09/2014 09:44:57][                          1250] Invoice Amount 
+[05/09/2014 09:44:57][                           127] Invoice Doc Num 
+[05/09/2014 09:44:57][                           127] Invoice Docentry 
+[05/09/2014 09:44:57][                   AE_Sbooking] Start updating the UDO 
+[05/09/2014 09:44:57][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/09/2014 09:44:57][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/09/2014 09:44:57][SD_InvoiceGeneration() - For RA 33] Completed With SUCCESS
+[05/09/2014 09:44:57][SD_InvoiceGeneration() - For RA 34] Starting Function
+[05/09/2014 09:44:57][                            34] Fetching the information for RA 
+[05/09/2014 09:44:57][                       C003941] Invoice - Cardcode 
+[05/09/2014 09:44:57][                      4/4/2014] Invocie - DocDate 
+[05/09/2014 09:44:57][Self Drive Billing for this Booking No : 34] Invoice - Description 
+[05/09/2014 09:44:57][                        400160] Invoice - Account Code
+[05/09/2014 09:44:57][                            SO] Invoice - Taxcode 
+[05/09/2014 09:44:57][                          1280] Invoice - Line Total  
+[05/09/2014 09:44:57][                            No] CDW Flag status 
+[05/09/2014 09:44:57][                            No] PAI Flag status 
+[05/09/2014 09:44:57][                            34] Generating the Invoice for RA 
+[05/09/2014 09:44:57][                            34] Completed with  SUCCESS 
+[05/09/2014 09:44:57][                           128] Generated Invoice Number is 
+[05/09/2014 09:44:57][          UDO_Update_SelfDrive] Starting Function
+[05/09/2014 09:44:57][                   AE_Sbooking] Attempting UDO Object 
+[05/09/2014 09:44:57][                            34] Set the RA Document Entry for update 
+[05/09/2014 09:44:57][                    04/04/2014] NInvDateNew 
+[05/09/2014 09:44:57][                    04/05/2014] NInvDateNew.AddMonths(1) 
+[05/09/2014 09:44:57][                    04/05/2014] Set the Next service date 
+[05/09/2014 09:44:57][                       119 , 1] Property check for idenftify the Line Num  
+[05/09/2014 09:44:57][                            34] Fetching the line items for RA 
+[05/09/2014 09:44:57][                    04/04/2014] Invoice Date
+[05/09/2014 09:44:57][                    09/05/2014] Invoice raised date 
+[05/09/2014 09:44:57][                          1280] Invoice Amount 
+[05/09/2014 09:44:57][                           128] Invoice Doc Num 
+[05/09/2014 09:44:57][                           128] Invoice Docentry 
+[05/09/2014 09:44:57][                   AE_Sbooking] Start updating the UDO 
+[05/09/2014 09:44:57][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/09/2014 09:44:57][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/09/2014 09:44:57][SD_InvoiceGeneration() - For RA 34] Completed With SUCCESS
+[05/09/2014 09:44:58][SD_InvoiceGeneration() - For RA 34] Completed with SUCCESS
+[05/09/2014 10:03:25][SD Recurring Invoice Generation Function()] Starting Function
+[05/09/2014 10:03:25][SD_InvoiceGeneration() - For RA 11] Starting Function
+[05/09/2014 10:03:25][                            11] Fetching the information for RA 
+[05/09/2014 10:03:25][                       C004123] Invoice - Cardcode 
+[05/09/2014 10:03:25][                      4/5/2014] Invocie - DocDate 
+[05/09/2014 10:03:25][Self Drive Billing for this Booking No : 11] Invoice - Description 
+[05/09/2014 10:03:25][                        400160] Invoice - Account Code
+[05/09/2014 10:03:25][                            SO] Invoice - Taxcode 
+[05/09/2014 10:03:25][                          3500] Invoice - Line Total  
+[05/09/2014 10:03:25][                            No] CDW Flag status 
+[05/09/2014 10:03:25][                            No] PAI Flag status 
+[05/09/2014 10:03:25][                            11] Generating the Invoice for RA 
+[05/09/2014 10:03:25][                            11] Completed with  SUCCESS 
+[05/09/2014 10:03:25][                           129] Generated Invoice Number is 
+[05/09/2014 10:03:25][          UDO_Update_SelfDrive] Starting Function
+[05/09/2014 10:03:25][                   AE_Sbooking] Attempting UDO Object 
+[05/09/2014 10:03:25][                            11] Set the RA Document Entry for update 
+[05/09/2014 10:03:25][                    04/05/2014] NInvDateNew 
+[05/09/2014 10:03:25][                    04/06/2014] NInvDateNew.AddMonths(1) 
+[05/09/2014 10:03:25][                    04/06/2014] Set the Next service date 
+[05/09/2014 10:03:25][                        78 , 1] Property check for idenftify the Line Num  
+[05/09/2014 10:03:25][                            11] Fetching the line items for RA 
+[05/09/2014 10:03:25][                    04/05/2014] Invoice Date
+[05/09/2014 10:03:25][                    09/05/2014] Invoice raised date 
+[05/09/2014 10:03:25][                          3500] Invoice Amount 
+[05/09/2014 10:03:25][                           129] Invoice Doc Num 
+[05/09/2014 10:03:25][                           129] Invoice Docentry 
+[05/09/2014 10:03:25][                   AE_Sbooking] Start updating the UDO 
+[05/09/2014 10:03:25][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[05/09/2014 10:03:25][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[05/09/2014 10:03:25][SD_InvoiceGeneration() - For RA 11] Completed With SUCCESS
+[05/09/2014 10:03:26][SD_InvoiceGeneration() - For RA 11] Completed with SUCCESS
+[06/02/2014 12:03:41][SD Recurring Invoice Generation Function()] Starting Function
+[06/02/2014 12:03:42][SD_InvoiceGeneration() - For RA 7] Starting Function
+[06/02/2014 12:03:42][                             7] Fetching the information for RA 
+[06/02/2014 12:03:42][                       C004105] Invoice - Cardcode 
+[06/02/2014 12:03:42][                     10/5/2014] Invocie - DocDate 
+[06/02/2014 12:03:42][Self Drive Billing for this Booking No : 7] Invoice - Description 
+[06/02/2014 12:03:42][                        400160] Invoice - Account Code
+[06/02/2014 12:03:42][                            SO] Invoice - Taxcode 
+[06/02/2014 12:03:42][                          1780] Invoice - Line Total  
+[06/02/2014 12:03:42][                           Yes] CDW Flag status 
+[06/02/2014 12:03:42][                             7] Fetching CDW information for RA 
+[06/02/2014 12:03:42][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[06/02/2014 12:03:42][                            SO] Invocie - TaxCode 
+[06/02/2014 12:03:42][                           150] Invoice - LineTotal 
+[06/02/2014 12:03:42][                        400120] Invoice - Account Code
+[06/02/2014 12:03:42][                           Yes] PAI Flag status 
+[06/02/2014 12:03:42][                             7] Generating the Invoice for RA 
+[06/02/2014 12:03:42][                             7] Completed with  SUCCESS 
+[06/02/2014 12:03:42][                           132] Generated Invoice Number is 
+[06/02/2014 12:03:42][          UDO_Update_SelfDrive] Starting Function
+[06/02/2014 12:03:42][                   AE_Sbooking] Attempting UDO Object 
+[06/02/2014 12:03:42][                             7] Set the RA Document Entry for update 
+[06/02/2014 12:03:42][                    10/05/2014] NInvDateNew 
+[06/02/2014 12:03:42][                    10/06/2014] NInvDateNew.AddMonths(1) 
+[06/02/2014 12:03:42][                    10/06/2014] Set the Next service date 
+[06/02/2014 12:03:42][                       101 , 5] Property check for idenftify the Line Num  
+[06/02/2014 12:03:42][                             7] Fetching the line items for RA 
+[06/02/2014 12:03:42][                    10/05/2014] Invoice Date
+[06/02/2014 12:03:42][                    02/06/2014] Invoice raised date 
+[06/02/2014 12:03:42][                          1780] Invoice Amount 
+[06/02/2014 12:03:42][                           132] Invoice Doc Num 
+[06/02/2014 12:03:42][                           132] Invoice Docentry 
+[06/02/2014 12:03:42][                   AE_Sbooking] Start updating the UDO 
+[06/02/2014 12:03:43][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[06/02/2014 12:03:43][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[06/02/2014 12:03:43][SD_InvoiceGeneration() - For RA 7] Completed With SUCCESS
+[06/02/2014 12:03:44][SD_InvoiceGeneration() - For RA 7] Completed with SUCCESS
+[06/02/2014 12:57:47][SD Recurring Invoice Generation Function()] Starting Function
+[06/02/2014 12:57:47][SD_InvoiceGeneration() - For RA 12] Starting Function
+[06/02/2014 12:57:47][                            12] Fetching the information for RA 
+[06/02/2014 12:57:47][                       C004124] Invoice - Cardcode 
+[06/02/2014 12:57:47][                      8/5/2014] Invocie - DocDate 
+[06/02/2014 12:57:47][Self Drive Billing for this Booking No : 12] Invoice - Description 
+[06/02/2014 12:57:47][                        400160] Invoice - Account Code
+[06/02/2014 12:57:47][                            SO] Invoice - Taxcode 
+[06/02/2014 12:57:47][                          2800] Invoice - Line Total  
+[06/02/2014 12:57:47][                           Yes] CDW Flag status 
+[06/02/2014 12:57:47][                            12] Fetching CDW information for RA 
+[06/02/2014 12:57:47][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[06/02/2014 12:57:47][                            SO] Invocie - TaxCode 
+[06/02/2014 12:57:47][                           100] Invoice - LineTotal 
+[06/02/2014 12:57:47][                        400120] Invoice - Account Code
+[06/02/2014 12:57:47][                            No] PAI Flag status 
+[06/02/2014 12:57:47][                            12] Generating the Invoice for RA 
+[06/02/2014 12:57:47][                            12] Completed with  SUCCESS 
+[06/02/2014 12:57:47][                           133] Generated Invoice Number is 
+[06/02/2014 12:57:47][          UDO_Update_SelfDrive] Starting Function
+[06/02/2014 12:57:47][                   AE_Sbooking] Attempting UDO Object 
+[06/02/2014 12:57:47][                            12] Set the RA Document Entry for update 
+[06/02/2014 12:57:47][                    08/05/2014] NInvDateNew 
+[06/02/2014 12:57:47][                    08/06/2014] NInvDateNew.AddMonths(1) 
+[06/02/2014 12:57:47][                    08/06/2014] Set the Next service date 
+[06/02/2014 12:57:47][                       100 , 3] Property check for idenftify the Line Num  
+[06/02/2014 12:57:47][                            12] Fetching the line items for RA 
+[06/02/2014 12:57:47][                    08/05/2014] Invoice Date
+[06/02/2014 12:57:47][                    02/06/2014] Invoice raised date 
+[06/02/2014 12:57:47][                          2800] Invoice Amount 
+[06/02/2014 12:57:47][                           133] Invoice Doc Num 
+[06/02/2014 12:57:47][                           133] Invoice Docentry 
+[06/02/2014 12:57:47][                   AE_Sbooking] Start updating the UDO 
+[06/02/2014 12:57:47][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[06/02/2014 12:57:47][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[06/02/2014 12:57:47][SD_InvoiceGeneration() - For RA 12] Completed With SUCCESS
+[06/02/2014 12:57:47][SD_InvoiceGeneration() - For RA 13] Starting Function
+[06/02/2014 12:57:47][                            13] Fetching the information for RA 
+[06/02/2014 12:57:47][                       C004125] Invoice - Cardcode 
+[06/02/2014 12:57:47][                     10/5/2014] Invocie - DocDate 
+[06/02/2014 12:57:47][Self Drive Billing for this Booking No : 13] Invoice - Description 
+[06/02/2014 12:57:47][                        400160] Invoice - Account Code
+[06/02/2014 12:57:47][                            SO] Invoice - Taxcode 
+[06/02/2014 12:57:47][                          1750] Invoice - Line Total  
+[06/02/2014 12:57:47][                           Yes] CDW Flag status 
+[06/02/2014 12:57:47][                            13] Fetching CDW information for RA 
+[06/02/2014 12:57:47][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[06/02/2014 12:57:47][                            SO] Invocie - TaxCode 
+[06/02/2014 12:57:47][                           100] Invoice - LineTotal 
+[06/02/2014 12:57:47][                        400120] Invoice - Account Code
+[06/02/2014 12:57:47][                            No] PAI Flag status 
+[06/02/2014 12:57:47][                            13] Generating the Invoice for RA 
+[06/02/2014 12:57:47][                            13] Completed with  SUCCESS 
+[06/02/2014 12:57:48][                           134] Generated Invoice Number is 
+[06/02/2014 12:57:48][          UDO_Update_SelfDrive] Starting Function
+[06/02/2014 12:57:48][                   AE_Sbooking] Attempting UDO Object 
+[06/02/2014 12:57:48][                            13] Set the RA Document Entry for update 
+[06/02/2014 12:57:48][                    10/05/2014] NInvDateNew 
+[06/02/2014 12:57:48][                    10/06/2014] NInvDateNew.AddMonths(1) 
+[06/02/2014 12:57:48][                    10/06/2014] Set the Next service date 
+[06/02/2014 12:57:48][                        84 , 1] Property check for idenftify the Line Num  
+[06/02/2014 12:57:48][                            13] Fetching the line items for RA 
+[06/02/2014 12:57:48][                    10/05/2014] Invoice Date
+[06/02/2014 12:57:48][                    02/06/2014] Invoice raised date 
+[06/02/2014 12:57:48][                          1750] Invoice Amount 
+[06/02/2014 12:57:48][                           134] Invoice Doc Num 
+[06/02/2014 12:57:48][                           134] Invoice Docentry 
+[06/02/2014 12:57:48][                   AE_Sbooking] Start updating the UDO 
+[06/02/2014 12:57:48][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[06/02/2014 12:57:48][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[06/02/2014 12:57:48][SD_InvoiceGeneration() - For RA 13] Completed With SUCCESS
+[06/02/2014 12:57:48][SD_InvoiceGeneration() - For RA 14] Starting Function
+[06/02/2014 12:57:48][                            14] Fetching the information for RA 
+[06/02/2014 12:57:48][                       C004126] Invoice - Cardcode 
+[06/02/2014 12:57:48][                      2/5/2014] Invocie - DocDate 
+[06/02/2014 12:57:48][Self Drive Billing for this Booking No : 14] Invoice - Description 
+[06/02/2014 12:57:48][                        400160] Invoice - Account Code
+[06/02/2014 12:57:48][                            SO] Invoice - Taxcode 
+[06/02/2014 12:57:48][                          2450] Invoice - Line Total  
+[06/02/2014 12:57:48][                           Yes] CDW Flag status 
+[06/02/2014 12:57:48][                            14] Fetching CDW information for RA 
+[06/02/2014 12:57:48][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[06/02/2014 12:57:48][                            SO] Invocie - TaxCode 
+[06/02/2014 12:57:48][                           100] Invoice - LineTotal 
+[06/02/2014 12:57:48][                        400120] Invoice - Account Code
+[06/02/2014 12:57:48][                            No] PAI Flag status 
+[06/02/2014 12:57:48][                            14] Generating the Invoice for RA 
+[06/02/2014 12:57:48][                            14] Completed with  SUCCESS 
+[06/02/2014 12:57:48][                           135] Generated Invoice Number is 
+[06/02/2014 12:57:48][          UDO_Update_SelfDrive] Starting Function
+[06/02/2014 12:57:48][                   AE_Sbooking] Attempting UDO Object 
+[06/02/2014 12:57:48][                            14] Set the RA Document Entry for update 
+[06/02/2014 12:57:48][                    02/05/2014] NInvDateNew 
+[06/02/2014 12:57:48][                    02/06/2014] NInvDateNew.AddMonths(1) 
+[06/02/2014 12:57:48][                    02/06/2014] Set the Next service date 
+[06/02/2014 12:57:48][                       104 , 1] Property check for idenftify the Line Num  
+[06/02/2014 12:57:48][                            14] Fetching the line items for RA 
+[06/02/2014 12:57:48][                    02/05/2014] Invoice Date
+[06/02/2014 12:57:48][                    02/06/2014] Invoice raised date 
+[06/02/2014 12:57:48][                          2450] Invoice Amount 
+[06/02/2014 12:57:48][                           135] Invoice Doc Num 
+[06/02/2014 12:57:48][                           135] Invoice Docentry 
+[06/02/2014 12:57:48][                   AE_Sbooking] Start updating the UDO 
+[06/02/2014 12:57:48][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[06/02/2014 12:57:48][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[06/02/2014 12:57:48][SD_InvoiceGeneration() - For RA 14] Completed With SUCCESS
+[06/02/2014 12:57:49][SD_InvoiceGeneration() - For RA 14] Completed with SUCCESS
+[06/02/2014 12:57:59][SD Recurring Invoice Generation Function()] Starting Function
+[06/02/2014 12:57:59][SD_InvoiceGeneration() - For RA 11] Starting Function
+[06/02/2014 12:57:59][                            11] Fetching the information for RA 
+[06/02/2014 12:57:59][                       C004123] Invoice - Cardcode 
+[06/02/2014 12:57:59][                      4/6/2014] Invocie - DocDate 
+[06/02/2014 12:57:59][Self Drive Billing for this Booking No : 11] Invoice - Description 
+[06/02/2014 12:57:59][                        400160] Invoice - Account Code
+[06/02/2014 12:57:59][                            SO] Invoice - Taxcode 
+[06/02/2014 12:57:59][                          3500] Invoice - Line Total  
+[06/02/2014 12:57:59][                            No] CDW Flag status 
+[06/02/2014 12:57:59][                            No] PAI Flag status 
+[06/02/2014 12:57:59][                            11] Generating the Invoice for RA 
+[06/02/2014 12:58:00][                            11] Completed with  SUCCESS 
+[06/02/2014 12:58:00][                           136] Generated Invoice Number is 
+[06/02/2014 12:58:00][          UDO_Update_SelfDrive] Starting Function
+[06/02/2014 12:58:00][                   AE_Sbooking] Attempting UDO Object 
+[06/02/2014 12:58:00][                            11] Set the RA Document Entry for update 
+[06/02/2014 12:58:00][                    04/06/2014] NInvDateNew 
+[06/02/2014 12:58:00][                    04/07/2014] NInvDateNew.AddMonths(1) 
+[06/02/2014 12:58:00][                    04/07/2014] Set the Next service date 
+[06/02/2014 12:58:00][                       129 , 2] Property check for idenftify the Line Num  
+[06/02/2014 12:58:00][                            11] Fetching the line items for RA 
+[06/02/2014 12:58:00][                    04/06/2014] Invoice Date
+[06/02/2014 12:58:00][                    02/06/2014] Invoice raised date 
+[06/02/2014 12:58:00][                          3500] Invoice Amount 
+[06/02/2014 12:58:00][                           136] Invoice Doc Num 
+[06/02/2014 12:58:00][                           136] Invoice Docentry 
+[06/02/2014 12:58:00][                   AE_Sbooking] Start updating the UDO 
+[06/02/2014 12:58:00][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[06/02/2014 12:58:00][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[06/02/2014 12:58:00][SD_InvoiceGeneration() - For RA 11] Completed With SUCCESS
+[06/02/2014 12:58:00][SD_InvoiceGeneration() - For RA 12] Starting Function
+[06/02/2014 12:58:00][                            12] Fetching the information for RA 
+[06/02/2014 12:58:00][                       C004124] Invoice - Cardcode 
+[06/02/2014 12:58:00][                      8/6/2014] Invocie - DocDate 
+[06/02/2014 12:58:00][Self Drive Billing for this Booking No : 12] Invoice - Description 
+[06/02/2014 12:58:00][                        400160] Invoice - Account Code
+[06/02/2014 12:58:00][                            SO] Invoice - Taxcode 
+[06/02/2014 12:58:00][                          2800] Invoice - Line Total  
+[06/02/2014 12:58:00][                           Yes] CDW Flag status 
+[06/02/2014 12:58:00][                            12] Fetching CDW information for RA 
+[06/02/2014 12:58:00][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[06/02/2014 12:58:00][                            SO] Invocie - TaxCode 
+[06/02/2014 12:58:00][                           100] Invoice - LineTotal 
+[06/02/2014 12:58:00][                        400120] Invoice - Account Code
+[06/02/2014 12:58:00][                            No] PAI Flag status 
+[06/02/2014 12:58:00][                            12] Generating the Invoice for RA 
+[06/02/2014 12:58:00][                            12] Completed with  SUCCESS 
+[06/02/2014 12:58:00][                           137] Generated Invoice Number is 
+[06/02/2014 12:58:00][          UDO_Update_SelfDrive] Starting Function
+[06/02/2014 12:58:00][                   AE_Sbooking] Attempting UDO Object 
+[06/02/2014 12:58:00][                            12] Set the RA Document Entry for update 
+[06/02/2014 12:58:00][                    08/06/2014] NInvDateNew 
+[06/02/2014 12:58:00][                    08/07/2014] NInvDateNew.AddMonths(1) 
+[06/02/2014 12:58:00][                    08/07/2014] Set the Next service date 
+[06/02/2014 12:58:00][                       100 , 3] Property check for idenftify the Line Num  
+[06/02/2014 12:58:00][                            12] Fetching the line items for RA 
+[06/02/2014 12:58:00][                    08/06/2014] Invoice Date
+[06/02/2014 12:58:00][                    02/06/2014] Invoice raised date 
+[06/02/2014 12:58:00][                          2800] Invoice Amount 
+[06/02/2014 12:58:00][                           137] Invoice Doc Num 
+[06/02/2014 12:58:00][                           137] Invoice Docentry 
+[06/02/2014 12:58:00][                   AE_Sbooking] Start updating the UDO 
+[06/02/2014 12:58:00][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[06/02/2014 12:58:00][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[06/02/2014 12:58:00][SD_InvoiceGeneration() - For RA 12] Completed With SUCCESS
+[06/02/2014 12:58:00][SD_InvoiceGeneration() - For RA 13] Starting Function
+[06/02/2014 12:58:00][                            13] Fetching the information for RA 
+[06/02/2014 12:58:00][                       C004125] Invoice - Cardcode 
+[06/02/2014 12:58:00][                     10/6/2014] Invocie - DocDate 
+[06/02/2014 12:58:00][Self Drive Billing for this Booking No : 13] Invoice - Description 
+[06/02/2014 12:58:00][                        400160] Invoice - Account Code
+[06/02/2014 12:58:00][                            SO] Invoice - Taxcode 
+[06/02/2014 12:58:00][                          1750] Invoice - Line Total  
+[06/02/2014 12:58:00][                           Yes] CDW Flag status 
+[06/02/2014 12:58:00][                            13] Fetching CDW information for RA 
+[06/02/2014 12:58:00][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[06/02/2014 12:58:00][                            SO] Invocie - TaxCode 
+[06/02/2014 12:58:00][                           100] Invoice - LineTotal 
+[06/02/2014 12:58:00][                        400120] Invoice - Account Code
+[06/02/2014 12:58:00][                            No] PAI Flag status 
+[06/02/2014 12:58:00][                            13] Generating the Invoice for RA 
+[06/02/2014 12:58:00][                            13] Completed with  SUCCESS 
+[06/02/2014 12:58:00][                           138] Generated Invoice Number is 
+[06/02/2014 12:58:00][          UDO_Update_SelfDrive] Starting Function
+[06/02/2014 12:58:00][                   AE_Sbooking] Attempting UDO Object 
+[06/02/2014 12:58:00][                            13] Set the RA Document Entry for update 
+[06/02/2014 12:58:00][                    10/06/2014] NInvDateNew 
+[06/02/2014 12:58:00][                    10/07/2014] NInvDateNew.AddMonths(1) 
+[06/02/2014 12:58:00][                    10/07/2014] Set the Next service date 
+[06/02/2014 12:58:00][                       134 , 2] Property check for idenftify the Line Num  
+[06/02/2014 12:58:00][                            13] Fetching the line items for RA 
+[06/02/2014 12:58:00][                    10/06/2014] Invoice Date
+[06/02/2014 12:58:00][                    02/06/2014] Invoice raised date 
+[06/02/2014 12:58:00][                          1750] Invoice Amount 
+[06/02/2014 12:58:00][                           138] Invoice Doc Num 
+[06/02/2014 12:58:00][                           138] Invoice Docentry 
+[06/02/2014 12:58:00][                   AE_Sbooking] Start updating the UDO 
+[06/02/2014 12:58:00][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[06/02/2014 12:58:00][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[06/02/2014 12:58:00][SD_InvoiceGeneration() - For RA 13] Completed With SUCCESS
+[06/02/2014 12:58:00][SD_InvoiceGeneration() - For RA 14] Starting Function
+[06/02/2014 12:58:00][                            14] Fetching the information for RA 
+[06/02/2014 12:58:00][                       C004126] Invoice - Cardcode 
+[06/02/2014 12:58:00][                      2/6/2014] Invocie - DocDate 
+[06/02/2014 12:58:00][Self Drive Billing for this Booking No : 14] Invoice - Description 
+[06/02/2014 12:58:00][                        400160] Invoice - Account Code
+[06/02/2014 12:58:00][                            SO] Invoice - Taxcode 
+[06/02/2014 12:58:00][                          2450] Invoice - Line Total  
+[06/02/2014 12:58:00][                           Yes] CDW Flag status 
+[06/02/2014 12:58:00][                            14] Fetching CDW information for RA 
+[06/02/2014 12:58:00][  Collission Damage Waiver Fee] Invoice - ItemDescription 
+[06/02/2014 12:58:00][                            SO] Invocie - TaxCode 
+[06/02/2014 12:58:00][                           100] Invoice - LineTotal 
+[06/02/2014 12:58:01][                        400120] Invoice - Account Code
+[06/02/2014 12:58:01][                            No] PAI Flag status 
+[06/02/2014 12:58:01][                            14] Generating the Invoice for RA 
+[06/02/2014 12:58:01][                            14] Completed with  SUCCESS 
+[06/02/2014 12:58:01][                           139] Generated Invoice Number is 
+[06/02/2014 12:58:01][          UDO_Update_SelfDrive] Starting Function
+[06/02/2014 12:58:01][                   AE_Sbooking] Attempting UDO Object 
+[06/02/2014 12:58:01][                            14] Set the RA Document Entry for update 
+[06/02/2014 12:58:01][                    02/06/2014] NInvDateNew 
+[06/02/2014 12:58:01][                    02/07/2014] NInvDateNew.AddMonths(1) 
+[06/02/2014 12:58:01][                    02/07/2014] Set the Next service date 
+[06/02/2014 12:58:01][                       104 , 1] Property check for idenftify the Line Num  
+[06/02/2014 12:58:01][                            14] Fetching the line items for RA 
+[06/02/2014 12:58:01][                    02/06/2014] Invoice Date
+[06/02/2014 12:58:01][                    02/06/2014] Invoice raised date 
+[06/02/2014 12:58:01][                          2450] Invoice Amount 
+[06/02/2014 12:58:01][                           139] Invoice Doc Num 
+[06/02/2014 12:58:01][                           139] Invoice Docentry 
+[06/02/2014 12:58:01][                   AE_Sbooking] Start updating the UDO 
+[06/02/2014 12:58:01][        UDO_Update_SelfDrive()] Completed with SUCCESS 
+[06/02/2014 12:58:01][        SD_InvoiceGeneration()] Completed with SUCCESS 
+[06/02/2014 12:58:01][SD_InvoiceGeneration() - For RA 14] Completed With SUCCESS
+[06/02/2014 12:58:02][SD_InvoiceGeneration() - For RA 14] Completed with SUCCESS

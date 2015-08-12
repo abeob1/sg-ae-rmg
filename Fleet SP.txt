@@ -1,0 +1,32 @@
+create proc VehicleTrackingLiveReport
+as
+begin
+-- vehicle tracking
+SELECT 
+	 CASE WHEN T0.[U_AE_Loc1]='Loc 1' 
+	 THEN T0.[U_AE_Vno] + ' - ' + left(convert(varchar, T0.[U_AE_Date],103),10) + ' - ' + T0.[U_AE_Time] 
+     END AS U_AE_Loc,
+	 CASE WHEN T0.[U_AE_Loc1]='Loc 2' 
+	 THEN T0.[U_AE_Vno] + ' - ' + left(convert(varchar, T0.[U_AE_Date],103),10) + ' - ' + T0.[U_AE_Time] 
+     END AS U_AE_Vno,
+      CASE WHEN T0.[U_AE_Loc1]='Loc 3'
+	 THEN T0.[U_AE_Vno] + ' - ' + left(convert(varchar, T0.[U_AE_Date],103),10) + ' - ' + T0.[U_AE_Time] 
+     END AS U_AE_Vdesc,
+      CASE WHEN T0.[U_AE_Loc1]='Loc 4'
+	 THEN T0.[U_AE_Vno] + ' - ' + left(convert(varchar, T0.[U_AE_Date],103),10) + ' - ' + T0.[U_AE_Time] 
+     END AS U_AE_Mileage,
+       CASE WHEN T0.[U_AE_Loc1]='Loc 5'
+	 THEN T0.[U_AE_Vno] + ' - ' + left(convert(varchar, T0.[U_AE_Date],103),10) + ' - ' + T0.[U_AE_Time] 
+     END AS U_AE_NRIC,
+      CASE WHEN T0.[U_AE_Loc1]='Loc R'
+	 THEN T0.[U_AE_Vno] + ' - ' + left(convert(varchar, T0.[U_AE_Date],103),10) + ' - ' + T0.[U_AE_Time] 
+     END AS U_AE_Name,
+      CASE WHEN T0.[U_AE_Loc1]='Loc C'
+	 THEN T0.[U_AE_Vno] + ' - ' + left(convert(varchar, T0.[U_AE_Date],103),10) + ' - ' + T0.[U_AE_Time] 
+     END AS U_AE_Remark,
+      CASE WHEN T0.[U_AE_Loc1]='Loc D'
+	 THEN T0.[U_AE_Vno] + ' - ' + left(convert(varchar, T0.[U_AE_Date],103),10) + ' - ' + T0.[U_AE_Time] 
+     END AS U_AE_Loc1     
+ FROM [dbo].[@AE_VTRACK]  T0 where T0.[U_AE_stat] = 'O'
+		
+end
