@@ -1,0 +1,30 @@
+[01/08/2015 08:47:01][ERROR Generating the Invoice for RA20001] 10000156 - Posting Date deviates from the defined range. To complete the operation, define the posting period to match the entered Posting Date.
+[01/13/2015 08:37:55][ERROR Generating the Invoice for RA20004] 10000156 - Posting Date deviates from the defined range. To complete the operation, define the posting period to match the entered Posting Date.
+[10/12/2015 08:53:05][UDO_Update_SelfDrive() for RA 669] Object reference not set to an instance of an object.
+[10/12/2015 09:23:03][        SD_InvoiceGeneration()] String was not recognized as a valid DateTime.
+[10/12/2015 09:23:03][SD_InvoiceGeneration() - For RA 20669] 
+[10/12/2015 09:23:11][        SD_InvoiceGeneration()] String was not recognized as a valid DateTime.
+[10/12/2015 09:23:11][SD_InvoiceGeneration() - For RA 20669] 
+[10/12/2015 09:23:47][        SD_InvoiceGeneration()] String was not recognized as a valid DateTime.
+[10/12/2015 09:23:47][SD_InvoiceGeneration() - For RA 20669] 
+[11/13/2015 17:13:58][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 17:22:58][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 17:22:58][SD_InvoiceGeneration() - For RA 20667] 
+[11/13/2015 17:23:10][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 17:23:10][SD_InvoiceGeneration() - For RA 20667] 
+[11/13/2015 17:23:10][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 17:23:10][SD_InvoiceGeneration() - For RA 20667] 
+[11/13/2015 17:23:15][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 17:23:15][SD_InvoiceGeneration() - For RA 20667] 
+[11/13/2015 17:24:52][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 17:24:52][SD_InvoiceGeneration() - For RA 20667] 
+[11/13/2015 17:25:36][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 17:25:36][SD_InvoiceGeneration() - For RA 20667] 
+[11/13/2015 17:26:12][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 17:26:55][SD_InvoiceGeneration() - For RA 20667] 
+[11/13/2015 17:27:52][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 17:50:25][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 17:50:48][        SD_InvoiceGeneration()] Conversion from string "" to type 'Double' is not valid.
+[11/13/2015 20:34:42][UDO_Update_SelfDrive() for RA 666] The DateTime represented by the string is not supported in calendar System.Globalization.GregorianCalendar.
+[11/13/2015 20:44:55][UDO_Update_SelfDrive() for RA 666] The DateTime represented by the string is not supported in calendar System.Globalization.GregorianCalendar.
+[11/13/2015 20:50:55][UDO_Update_SelfDrive() for RA 666] The DateTime represented by the string is not supported in calendar System.Globalization.GregorianCalendar.
