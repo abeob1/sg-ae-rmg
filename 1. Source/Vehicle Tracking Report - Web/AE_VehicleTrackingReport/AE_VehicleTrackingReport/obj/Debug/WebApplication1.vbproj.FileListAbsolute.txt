@@ -1,0 +1,12 @@
+D:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\WebApplication1\WebApplication1\bin\WebApplication1.xml
+D:\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+D:\WebApplication1\WebApplication1\obj\Debug\GenerateResource.read.1.tlog
+D:\WebApplication1\WebApplication1\obj\Debug\GenerateResource.write.1.tlog
+D:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+D:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\WebApplication1\WebApplication1\obj\Debug\ResGen.read.1.tlog
+D:\WebApplication1\WebApplication1\obj\Debug\ResGen.write.1.tlog
