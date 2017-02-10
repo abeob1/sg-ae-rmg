@@ -1,0 +1,29 @@
+[12/15/2014 14:49:05][                          Main] Starting Function
+[12/15/2014 14:49:05][               AppConfigInfo()] Starting Function
+[12/15/2014 14:49:05][               AppConfigInfo()] Completed with SUCCESS
+[12/15/2014 14:49:05][    Attempting CD Notification] Starting Function
+[12/15/2014 14:49:05][    Attempting CD Notification] Completed with SUCCESS
+[12/15/2014 14:49:05][    Attempting SD Notification] Starting Function
+[12/15/2014 14:49:05][    Attempting SD Notification] Attempting the Timer 1
+[12/15/2014 14:49:10][    Attempting SD Notification] Calling ExecuteSQLQuery() [AE_SP011_SDNotification_WithoutVehicle]'12-17-2014'
+[12/15/2014 14:49:11][ExecuteQuery() [AE_SP011_SDNotification_WithoutVehicle]'12-17-2014'] Starting Function...
+[12/15/2014 14:49:11][ExecuteQuery() [AE_SP011_SDNotification_WithoutVehicle]'12-17-2014']  SQL [AE_SP011_SDNotification_WithoutVehicle]'12-17-2014'
+[12/15/2014 14:49:12][ExecuteQuery() [AE_SP011_SDNotification_WithoutVehicle]'12-17-2014'] Function Completed Successfully.
+[12/15/2014 14:49:16][    Attempting SD Notification] No Values Found ....... !
+[12/15/2014 14:49:28][    Attempting SD Notification] Calling ExecuteSQLQuery() [AE_SP013_SDNotification_ContractExpiry]'03-15-2015'
+[12/15/2014 14:49:32][ExecuteQuery() [AE_SP013_SDNotification_ContractExpiry]'03-15-2015'] Starting Function...
+[12/15/2014 14:49:32][ExecuteQuery() [AE_SP013_SDNotification_ContractExpiry]'03-15-2015']  SQL [AE_SP013_SDNotification_ContractExpiry]'03-15-2015'
+[12/15/2014 14:49:32][ExecuteQuery() [AE_SP013_SDNotification_ContractExpiry]'03-15-2015'] Function Completed Successfully.
+[12/15/2014 14:49:35][    Attempting SD Notification] No Values Found ....... !
+[12/15/2014 14:49:36][    Attempting SD Notification] Calling ExecuteSQLQuery() [AE_SP012_SDNotification_InvoiceAlert]'12-12-2014'
+[12/15/2014 14:49:37][ExecuteQuery() [AE_SP012_SDNotification_InvoiceAlert]'12-12-2014'] Starting Function...
+[12/15/2014 14:49:37][ExecuteQuery() [AE_SP012_SDNotification_InvoiceAlert]'12-12-2014']  SQL [AE_SP012_SDNotification_InvoiceAlert]'12-12-2014'
+[12/15/2014 14:49:37][ExecuteQuery() [AE_SP012_SDNotification_InvoiceAlert]'12-12-2014'] Function Completed Successfully.
+[12/15/2014 14:49:41][    Attempting SD Notification] Calling UploadToExcel() Self Driver - Invoice Alert 14:49
+[12/15/2014 14:49:48][               UploadToExcel()] Starting Function...
+[12/15/2014 14:49:50][               UploadToExcel()] Excel Object Created .
+[12/15/2014 14:50:00][               UploadToExcel()] Columns Created .
+[12/15/2014 14:50:08][               UploadToExcel()] Rows Created .
+[12/15/2014 14:50:32][               UploadToExcel()] Completed with SUCCESS
+[12/15/2014 14:50:49][    Attempting SD Notification] Calling SendEmailNotification()
+[12/15/2014 14:51:21][       SendEmailNotification()] Starting Function...

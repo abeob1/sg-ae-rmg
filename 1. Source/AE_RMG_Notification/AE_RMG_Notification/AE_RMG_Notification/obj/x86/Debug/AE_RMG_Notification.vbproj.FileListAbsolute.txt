@@ -1,0 +1,123 @@
+C:\Users\Boorla\AppData\Local\Temporary Projects\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.Resources.resources
+C:\Users\Boorla\AppData\Local\Temporary Projects\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.GenerateResource.Cache
+C:\Users\Boorla\AppData\Local\Temporary Projects\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe
+C:\Users\Boorla\AppData\Local\Temporary Projects\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.pdb
+C:\Users\Boorla\AppData\Local\Temporary Projects\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.xml
+C:\Users\Boorla\AppData\Local\Temporary Projects\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+C:\Users\Boorla\AppData\Local\Temporary Projects\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+C:\Users\Boorla\AppData\Local\Temporary Projects\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+D:\Projects_ABEO\RMG\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+D:\Projects_ABEO\RMG\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+D:\Projects_ABEO\RMG\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+D:\Projects_ABEO\RMG\AE_RMG_Notification\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+D:\Projects_ABEO\RMG\AE_RMG_Notification\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe
+D:\Projects_ABEO\RMG\AE_RMG_Notification\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.pdb
+D:\Projects_ABEO\RMG\AE_RMG_Notification\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.xml
+D:\Projects_ABEO\RMG\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.Resources.resources
+D:\Projects_ABEO\RMG\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.GenerateResource.Cache
+C:\Users\john\Desktop\AE_RMG_Notification\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+C:\Users\john\Desktop\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+C:\Users\john\Desktop\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+C:\Users\john\Desktop\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.xml
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.Resources.resources
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.ResolveComReference.cache
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.ResolveComReference.cache
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.xml
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.Resources.resources
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - II\AE_RMG_Notification\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - III\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - III\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.ResolveComReference.cache
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - III\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - III\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification24042014 - III\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.ResolveComReference.cache
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.xml
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.Resources.resources
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014\AE_RMG_Notification\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.ResolveComReference.cache
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.pdb
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.xml
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.Resources.resources
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\John Backup\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+F:\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.ResolveComReference.cache
+F:\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+F:\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+F:\Application\SAP B1\Projects\Notification\AE_RMG_Notification25042014 - II\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification07052014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification07052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.ResolveComReference.cache
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification07052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification07052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification07052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification07052014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification07052014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.pdb
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification07052014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.xml
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification07052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.Resources.resources
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification07052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.GenerateResource.Cache
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification08052014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification08052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.ResolveComReference.cache
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification08052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification08052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification08052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification08052014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification08052014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.pdb
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification08052014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.xml
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification08052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.Resources.resources
+F:\Application\SAP B1\Projects\Notification\Month 05\AE_RMG_Notification08052014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.GenerateResource.Cache
+F:\Application\SAP B1\Projects\Notification\Month 10\AE_RMG_Notification17102014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+F:\Application\SAP B1\Projects\Notification\Month 10\AE_RMG_Notification17102014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.ResolveComReference.cache
+F:\Application\SAP B1\Projects\Notification\Month 10\AE_RMG_Notification17102014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+F:\Application\SAP B1\Projects\Notification\Month 10\AE_RMG_Notification17102014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+F:\Application\SAP B1\Projects\Notification\Month 10\AE_RMG_Notification17102014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+F:\Application\SAP B1\Projects\Notification\Month 10\AE_RMG_Notification17102014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe
+F:\Application\SAP B1\Projects\Notification\Month 10\AE_RMG_Notification17102014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.pdb
+F:\Application\SAP B1\Projects\Notification\Month 10\AE_RMG_Notification17102014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.xml
+F:\Application\SAP B1\Projects\Notification\Month 10\AE_RMG_Notification17102014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.Resources.resources
+F:\Application\SAP B1\Projects\Notification\Month 10\AE_RMG_Notification17102014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.GenerateResource.Cache
+F:\Application\SAP B1\Projects\Notification\Month 12\AE_RMG_Notification15122014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe.config
+F:\Application\SAP B1\Projects\Notification\Month 12\AE_RMG_Notification15122014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.ResolveComReference.cache
+F:\Application\SAP B1\Projects\Notification\Month 12\AE_RMG_Notification15122014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.exe
+F:\Application\SAP B1\Projects\Notification\Month 12\AE_RMG_Notification15122014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.xml
+F:\Application\SAP B1\Projects\Notification\Month 12\AE_RMG_Notification15122014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.pdb
+F:\Application\SAP B1\Projects\Notification\Month 12\AE_RMG_Notification15122014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.exe
+F:\Application\SAP B1\Projects\Notification\Month 12\AE_RMG_Notification15122014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.pdb
+F:\Application\SAP B1\Projects\Notification\Month 12\AE_RMG_Notification15122014\AE_RMG_Notification\bin\Debug\AE_RMG_Notification.xml
+F:\Application\SAP B1\Projects\Notification\Month 12\AE_RMG_Notification15122014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.Resources.resources
+F:\Application\SAP B1\Projects\Notification\Month 12\AE_RMG_Notification15122014\AE_RMG_Notification\obj\x86\Debug\AE_RMG_Notification.vbproj.GenerateResource.Cache
